@@ -12,9 +12,9 @@
     // for naver new ui (2020-04-17)
     const styles = `
     .column_right.is_bfixed .column_fix_wrap {
-				position: fixed !important;
+        position: fixed !important;
         top: 70px !important;
-				bottom: auto !important;
+        bottom: auto !important;
         margin-top: 20px !important;
     }
 `;
