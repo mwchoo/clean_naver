@@ -23,5 +23,8 @@
     styleSheet.type = "text/css";
     styleSheet.innerText = styles;
     document.head.appendChild(styleSheet);
+    document.getElementById('veta_top').remove();
     document.getElementsByClassName('sc_shopcast')[0].remove();
+    document.getElementById('NM_TOP_BANNER').remove();
+    document.getElementById('NM_whale_download_file').remove();
 })();
